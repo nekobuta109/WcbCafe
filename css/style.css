@@ -264,3 +264,6 @@ aside p{
   margin-top: 6%; /*全体のマージン最上部*/
   margin-bottom: 50px;/*全体のマージン最下部*/
 }
+.big-box{
+  grid-column: 1/3; /*要素の縦のが３番目の要素のはじめの①に*/
+}
